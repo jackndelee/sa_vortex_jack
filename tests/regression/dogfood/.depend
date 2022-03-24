@@ -1,0 +1,2 @@
+main.o: main.cpp /home/delee/vortex/driver/include/vortex.h \
+ /home/delee/vortex/runtime/../hw/VX_config.h testcases.h common.h
